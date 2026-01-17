@@ -1,3 +1,2 @@
 # diamond-daily
-news website
-mlb news
+Website that will keep you updated with all the latest MLB news
